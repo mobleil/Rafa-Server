@@ -1,0 +1,39 @@
+1. Fixed selected value
+2. Fixed buildscreen
+2. Multilist
+3. Fixed animation error
+
+[size=+1][Sharing App]FREE Tukuya Indonesia Mobile Market, aplikasi asli buatan dalam negeri[/size]
+
+[b]Deskripsi[/b]
+Tukuya adalah sebuah aplikasi yang dibangun menggunakan JavaME (semua handphone yang bisa opera mini pasti bisa aplikasi ini).
+Versi MIDP yang digunakan adalah MIDP 2.0 dgn CDLC 1.1, rights pada akses Http dan Https
+Didalam tukuya terdapat berbagai macam aplikasi siap pake untuk komunitas indonesia, seperti jadwal bioskop, harga tiket pesawat, berita, dll.
+Aplikasi yang terdapat di dalam tukuya selalu bertambah dan terupdate.
+
+[b]Screenshot[/b]
+On Samsung E2120 (low end)
+[IMG]http://i53.tinypic.com/2ex6e1i.jpg[/IMG]
+[IMG]http://i52.tinypic.com/fxe636.jpg[/IMG]
+
+On Nokia E71 (high end)
+[IMG]http://i53.tinypic.com/2qu4w01.jpg[/IMG]
+[IMG]http://i52.tinypic.com/35908c9.jpg[/IMG]
+[IMG]http://i52.tinypic.com/zu2lqg.jpg[/IMG]
+[IMG]http://i56.tinypic.com/1z4lwmq.jpg[/IMG]
+
+[b]Download[/b]
+Mobile Site: [url="http://www.tukuya.com"]Tukuya[/url]
+[url="http://www.tukuya.com/system/application/download/Tukuya.jad"]Tukuya JAD[/url]
+[url="http://www.tukuya.com/system/application/download/Tukuya.jar"]Tukuya JAR[/url]
+
+[b]Status[/b]
+Aplikasi masih versi beta,
+Menerima inputan baik berupa kritik dan saran
+
+[b]Working Phone[/b]
+- Nokia E71
+- Samsung E2120
+- TiPhone T30
+
+:beer:

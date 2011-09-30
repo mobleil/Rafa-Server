@@ -1,0 +1,14 @@
+Version 1.1
+- Up and running RAFA Library build with CodeIgniter Framework
+- Support some primitive Like: Label, Alert, Redirect and List
+
+Version 1.2
+- Added core RAFA application (Kernel) like: User
+- Added RAFA application example, cineplex
+- Modify List primitive before only support name and value, now added description for itemlist.
+- Change itemlist attribute "value" to optional
+
+Version 1.3
+- Add textfield UI on the list, the list with textfield added icon on the right
+- Change UI framework from XML to code base
+- Update parser
